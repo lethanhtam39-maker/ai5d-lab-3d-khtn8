@@ -1,0 +1,6 @@
+{
+  "name": "AI–5Đ LAB 3D – PHÒNG THÍ NGHIỆM HÓA HỌC TƯƠNG TÁC",
+  "description": "Phòng thí nghiệm Hóa học 3D tương tác - Dấu hiệu nhận biết có chất mới tạo thành (KHTN 8 - Kết nối tri thức với cuộc sống)",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
